@@ -5,6 +5,8 @@ Java bytecode to license Charles Proxy v4.2.6b2 [eIsl.j]
 
 Java bytecode to license Charles Proxy v4.2.6 Final [GPSz.j]
 
+Java bytecode to license Charles Proxy v4.5.1 Final [YQUd.j]
+
 
 How-to: 
 
